@@ -1,0 +1,6 @@
+transformers
+torch
+sounddevice
+numpy
+openai-whisper
+pyttsx3
